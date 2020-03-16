@@ -9,6 +9,7 @@ int main()
 {
 	int x = 5;
 	std::cout << "Salut !";
+	std::cout << "Bonjour ...";
     return 0;
 }
 
